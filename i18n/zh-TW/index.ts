@@ -1,3 +1,3 @@
 export default {
-	stoppage:'停機',
+	stoppage:'史塔佩姬',
 }
